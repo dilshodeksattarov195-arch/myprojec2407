@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordereync",
+        "uuid": 14651409,
+        "checksum": "v2281"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
